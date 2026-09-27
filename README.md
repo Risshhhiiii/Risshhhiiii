@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cyber_banner.gif" alt="Rishi Raj Sharma — AI & Product Development Engineer" width="100%" />
+  <img src="assets/cyber_banner_v2.gif" alt="Rishi Raj Sharma — AI & Product Development Engineer" width="100%" />
 </p>
 
 <p align="center">

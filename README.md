@@ -1,65 +1,82 @@
 <div align="center">
 
-<!-- Header Banner -->
+<!-- Animated Header Banner -->
 <a href="https://my-portfolio-tau-navy-48.vercel.app/" target="_blank">
   <img src="assets/banner.svg" alt="Rishi Raj Sharma — AI & Product Development Engineer" width="100%" />
 </a>
 
 <br/><br/>
 
-<!-- Interactive Dynamic Typing Header -->
+<!-- Dynamic Glowing Typing Headline -->
 <a href="https://my-portfolio-tau-navy-48.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%26+Product+Development+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision+Systems;Distributed+Microservices+(Spring+Cloud+%26+FastAPI);AWS+Certified+Cloud+Practitioner;Explore+Interactive+Portfolio+%E2%86%92+my-portfolio-tau-navy-48.vercel.app" alt="Dynamic Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2400&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=%E2%9A%A1+AI+%26+Product+Development+Engineer;%F0%9F%A7%A0+Deep+Learning+%7C+NLP+%7C+Real-Time+Computer+Vision;%E2%9A%99%EF%B8%8F+Distributed+Microservices+Architect+(Spring+Cloud);%E2%98%81%EF%B8%8F+AWS+Certified+Cloud+Practitioner;%F0%9F%8C%90+Step+Into+My+Live+Portfolio+%E2%86%92+my-portfolio-tau-navy-48.vercel.app" alt="Dynamic Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Interactive Action Badges -->
+<!-- Interactive Quick-Launch Badges -->
 <p align="center">
   <a href="https://my-portfolio-tau-navy-48.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Demo_↗-00E5FF?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_ENTER_DIGITAL_SANCTUARY-Live_Portfolio_↗-00E5FF?style=for-the-badge&logoColor=white&labelColor=0a0e17" alt="Live Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rishi-raj-sharma-9b5168344" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishi_Raj_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rishi_Raj_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:rishisharma21950@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishisharma21950@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17" alt="Email" />
   </a>
   &nbsp;
   <a href="https://kaggle.com/risshhhiiii" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-risshhhiiii-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-risshhhiiii-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a0e17" alt="Kaggle" />
   </a>
 </p>
+
+<!-- Live Telemetry KPI Metrics -->
+<table align="center" border="0" cellpadding="8">
+  <tr align="center">
+    <td><b>⚡ &lt; 140ms</b><br/><sub>NLP Pipeline Latency</sub></td>
+    <td><b>👁️ 30 FPS</b><br/><sub>Real-Time Gesture Inference</sub></td>
+    <td><b>⚙️ Microservices</b><br/><sub>Spring Cloud Gateway + Eureka</sub></td>
+    <td><b>☁️ AWS Certified</b><br/><sub>Cloud Practitioner (2026)</sub></td>
+    <td><b>🎓 BITM Ballari</b><br/><sub>CSE – AI Engineering '27</sub></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 Executive Technical Profile
 
 AI & Product Development Engineer experienced in machine learning and full-stack development. Skilled in **Python**, **Java**, **TensorFlow**, **Spring Boot**, and building scalable, data-driven applications. Strong problem-solving abilities with a focus on developing efficient, intelligent, and product-oriented solutions.
 
-- 🎓 **Education**: 
+- 🎓 **Education**:
   - **Ballari Institute of Technology and Management (BITM)** — *Bachelor in Engineering (B.E.) in CSE – AI Engineering (2023 – 2027)*
   - **Jindal Vidya Mandir** — *Intermediate: Physics, Chemistry, Mathematics, Computer Science (2021 – 2023)*
-- 🌐 **Live Digital Sanctuary**: Check out my full interactive portfolio with live AI intelligence at [my-portfolio-tau-navy-48.vercel.app](https://my-portfolio-tau-navy-48.vercel.app/)
-- 🎯 **Engineering Focus**: Deep learning pipelines, real-time computer vision inference (30 FPS), distributed microservices with dynamic routing, and cloud scalability.
+- 🌐 **Interactive Portfolio**: Experience the Tsukuyomi engineering portal featuring custom WebGL shaders, real-time gesture telemetry, and live AI intelligence at **[my-portfolio-tau-navy-48.vercel.app](https://my-portfolio-tau-navy-48.vercel.app/)**.
+- 🛠️ **Engineering Principles**: High-throughput inference pipelines, non-blocking asynchronous microservices, zero-friction HCI interfaces, and cloud-native observability.
 
 ---
 
-### 🏛️ Featured Engineering Projects
+### 🏛️ Flagship Engineering Projects
 
 <table>
   <tr>
+    <!-- Project 1: Newsroom AI -->
     <td width="50%" valign="top">
-      <h3>📰 <a href="https://github.com/Risshhhiiii/Comments-Sentiment-Analysis-And-Summarizer---Newsroom-AI">Comments Sentiment Analysis & Summarizer — NEWSROOM AI</a></h3>
-      <p>AI-powered system to analyze public discussions and comments across 7 emotional dimensions with automated executive intelligence briefings.</p>
+      <div align="left">
+        <span style="font-size: 1.15em;">📰 <b><a href="https://github.com/Risshhhiiii/Comments-Sentiment-Analysis-And-Summarizer---Newsroom-AI">Newsroom AI — Sentiment & Emotion Pipeline</a></b></span>
+        <br/>
+        <sub><b>Status:</b> Production Ready &nbsp;·&nbsp; <b>Latency:</b> &lt; 140ms &nbsp;·&nbsp; <b>Hackathon:</b> VISAI 2026</sub>
+      </div>
+      <br/>
+      <p>High-throughput NLP pipeline analyzing multi-source public discussions across 7 psychological emotion dimensions, synthesized with automated GenAI executive briefings.</p>
       <ul>
         <li><b>NLP Classification:</b> Fine-grained emotion classification using <code>j-hartmann/emotion-english-distilroberta-base</code> transformer model.</li>
-        <li><b>GenAI Summaries:</b> Automated structured summaries powered by Google GenAI (Gemini API) for fast insights.</li>
-        <li><b>Async Ingestion:</b> Scalable backend with FastAPI integrating YouTube Data API and News API for real-time collection.</li>
+        <li><b>GenAI Synthesis:</b> Executive news summaries generated via Google GenAI (Gemini API) for fast, structured insights.</li>
+        <li><b>Async Ingestion:</b> Scalable backend with FastAPI integrating YouTube Data API and News API for real-time ingestion.</li>
         <li><b>Storage:</b> Low-latency retrieval and storage using MongoDB clusters (<140ms latency).</li>
       </ul>
       <p>
@@ -70,29 +87,40 @@ AI & Product Development Engineer experienced in machine learning and full-stack
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <details>
-        <summary><b>🔍 View Newsroom AI Architecture Pipeline</b></summary>
+        <summary><b>🔍 View Pipeline Architecture Flow</b></summary>
         <br/>
         <pre>
-[User Comments / News API / YouTube API]
-                 │
-                 ▼
-     [Asynchronous FastAPI Engine]
-        │                      │
-        ▼                      ▼
-[DistilRoBERTa Emotion]   [Google Gemini GenAI]
- (7 Emotion Vectors)      (Executive Synthesis)
-        │                      │
-        └──────────┬───────────┘
-                   ▼
-      [MongoDB Cluster Storage] (<140ms Latency)
+┌──────────────────────────────────────────────┐
+│  Multi-API Ingestion (YouTube / News API)    │
+└──────────────────────┬───────────────────────┘
+                       │ Real-time Stream
+                       ▼
+┌──────────────────────────────────────────────┐
+│       Asynchronous FastAPI Engine            │
+├──────────────────────┬───────────────────────┤
+│                      │                       │
+▼                      ▼                       ▼
+DistilRoBERTa          Google Gemini           MongoDB
+(7-Dim Emotion Model)  (Executive Briefing)    (Telemetry Cache)
+                       │                       │
+                       └───────────┬───────────┘
+                                   ▼
+                   Dashboard &amp; Production API (&lt;140ms)
         </pre>
       </details>
       <br/>
-      <a href="https://github.com/Risshhhiiii/Comments-Sentiment-Analysis-And-Summarizer---Newsroom-AI"><b>View Source Code & Repository →</b></a>
+      <a href="https://github.com/Risshhhiiii/Comments-Sentiment-Analysis-And-Summarizer---Newsroom-AI"><b>Inspect Repository &amp; Code →</b></a>
     </td>
+
+    <!-- Project 2: Hospital Management -->
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/Risshhhiiii/Hospital-Management-System-Using-MicroServices-And-SpringBoot">Hospital Management — Microservices Platform</a></h3>
-      <p>Decentralized healthcare application built on Spring Boot & Spring Cloud enterprise microservices architecture.</p>
+      <div align="left">
+        <span style="font-size: 1.15em;">🏥 <b><a href="https://github.com/Risshhhiiii/Hospital-Management-System-Using-MicroServices-And-SpringBoot">Hospital Management — Microservices Platform</a></b></span>
+        <br/>
+        <sub><b>Architecture:</b> Distributed Microservices &nbsp;·&nbsp; <b>Routing:</b> Spring Cloud Gateway</sub>
+      </div>
+      <br/>
+      <p>Decentralized healthcare infrastructure engineered with Spring Boot, Spring Cloud, dynamic service discovery, and end-to-end distributed observability.</p>
       <ul>
         <li><b>Service Registry:</b> Dynamic routing & discovery using Netflix Eureka (Port 8761) paired with Reactive Spring Cloud Gateway (Port 9191).</li>
         <li><b>Inter-Service Resilience:</b> Non-blocking inter-service communication with Spring WebClient and PostgreSQL persistence.</li>
@@ -106,32 +134,43 @@ AI & Product Development Engineer experienced in machine learning and full-stack
         <img src="https://img.shields.io/badge/Zipkin_Tracing-B00020?style=flat-square" />
       </p>
       <details>
-        <summary><b>🔍 View Microservices Topology</b></summary>
+        <summary><b>🔍 View Distributed Microservices Topology</b></summary>
         <br/>
         <pre>
-[Client Request] ──► [Spring Cloud Gateway (9191)]
-                               │
-               ┌───────────────┴───────────────┐
-               ▼                               ▼
-     [Eureka Registry (8761)]        [JWT Auth Validator]
-               │
-      ┌────────┴────────┬───────────────┐
-      ▼                 ▼               ▼
+[Client Request / Frontend]
+             │
+             ▼
+[Spring Cloud Gateway :9191] ──► [JWT Auth Filter]
+             │
+             ▼
+┌──────────────────────────────────────────────┐
+│       Netflix Eureka Registry :8761          │
+└──────────────┬──────────────┬────────────────┘
+               │              │
+      ┌────────┴────────┐     └────────┐
+      ▼                 ▼              ▼
 [Doctor Service]  [Patient Service] [Appointment Service]
-      │                 │               │
-      └─────────┬───────┴───────────────┘
+      │                 │              │
+      └─────────┬───────┴──────────────┘
                 ▼
-   [PostgreSQL DB + Zipkin Tracing]
+  [PostgreSQL DB + Distributed Zipkin Tracing]
         </pre>
       </details>
       <br/>
-      <a href="https://github.com/Risshhhiiii/Hospital-Management-System-Using-MicroServices-And-SpringBoot"><b>View Source Code & Repository →</b></a>
+      <a href="https://github.com/Risshhhiiii/Hospital-Management-System-Using-MicroServices-And-SpringBoot"><b>Inspect Repository &amp; Code →</b></a>
     </td>
   </tr>
+
   <tr>
+    <!-- Project 3: CNN Media Player -->
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Risshhhiiii/CNN-Based-Media-Player">CNN-Based Touchless Media Player</a></h3>
-      <p>Real-time touchless Human-Computer Interface (HCI) integrating deep Convolutional Neural Networks and computer vision for media control.</p>
+      <div align="left">
+        <span style="font-size: 1.15em;">🎮 <b><a href="https://github.com/Risshhhiiii/CNN-Based-Media-Player">CNN Touchless Media Controller</a></b></span>
+        <br/>
+        <sub><b>Throughput:</b> 30 FPS Live Stream &nbsp;·&nbsp; <b>Model:</b> 2D CNN (.h5) &nbsp;·&nbsp; <b>Interface:</b> Streamlit</sub>
+      </div>
+      <br/>
+      <p>Real-time touchless Human-Computer Interface (HCI) translating dynamic hand postures into media playback commands with zero physical contact.</p>
       <ul>
         <li><b>Computer Vision:</b> Real-time 30 FPS video streaming, hand contour detection, and dynamic skin-mask segmentation via OpenCV.</li>
         <li><b>Gesture Classification:</b> Trained 2D CNN model to detect hand postures with high reliability for play, pause, volume, and seek controls.</li>
@@ -151,10 +190,10 @@ AI & Product Development Engineer experienced in machine learning and full-stack
 [Live Webcam Feed (30 FPS)]
              │
              ▼
-[OpenCV Skin-Mask & Hand Contour Extraction]
+[OpenCV Skin-Masking &amp; Hand Contour Extraction]
              │
              ▼
-[2D CNN Classifier (.h5 Inference)]
+[2D CNN Classifier (.h5 Inference Loop)]
              │
    ┌─────────┼──────────┬──────────┐
    ▼         ▼          ▼          ▼
@@ -162,10 +201,17 @@ AI & Product Development Engineer experienced in machine learning and full-stack
         </pre>
       </details>
       <br/>
-      <a href="https://github.com/Risshhhiiii/CNN-Based-Media-Player"><b>View Source Code & Repository →</b></a>
+      <a href="https://github.com/Risshhhiiii/CNN-Based-Media-Player"><b>Inspect Repository &amp; Code →</b></a>
     </td>
+
+    <!-- Project 4: Cinematic Portfolio -->
     <td width="50%" valign="top">
-      <h3>🌌 <a href="https://my-portfolio-tau-navy-48.vercel.app/">Cinematic Tsukuyomi Portfolio & AI Intelligence</a></h3>
+      <div align="left">
+        <span style="font-size: 1.15em;">🌌 <b><a href="https://my-portfolio-tau-navy-48.vercel.app/">Cinematic Tsukuyomi Portfolio &amp; AI Guard</a></b></span>
+        <br/>
+        <sub><b>Performance:</b> 60 FPS WebGL &nbsp;·&nbsp; <b>Deployment:</b> Vercel &nbsp;·&nbsp; <b>Persona:</b> Tsukuyomi AI</sub>
+      </div>
+      <br/>
       <p>Interactive web engineering showcase featuring GPU-accelerated WebGL shaders, Mangekyō constellation tracking, and embedded AI intelligence.</p>
       <ul>
         <li><b>Visual Engineering:</b> Custom WebGL smoke & particle shaders, mouse-tracking geometry, and Web Audio API soundscapes.</li>
@@ -183,9 +229,9 @@ AI & Product Development Engineer experienced in machine learning and full-stack
         <summary><b>🔍 View Frontend Stack Highlights</b></summary>
         <br/>
         <ul>
-          <li><b>60 FPS Shaders:</b> Hardware-accelerated canvas animations with minimal CPU overhead.</li>
-          <li><b>Telemetry Chatbot:</b> Direct interactive knowledge retrieval on projects, credentials, and code.</li>
-          <li><b>Responsive Architecture:</b> Seamless layout scaling across desktop, tablet, and mobile.</li>
+          <li><b>Hardware-Accelerated:</b> Shaders executed directly on GPU canvas with zero lag.</li>
+          <li><b>Interactive Knowledge Base:</b> Ask Itachi persona questions regarding Rishi's system designs.</li>
+          <li><b>Full Responsiveness:</b> Engineered for desktop, tablet, and mobile displays.</li>
         </ul>
       </details>
       <br/>
@@ -200,28 +246,29 @@ AI & Product Development Engineer experienced in machine learning and full-stack
 
 <div align="center">
 
-| Category | Skills & Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | `Python` &nbsp;·&nbsp; `Java` &nbsp;·&nbsp; `C++` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `HTML5` &nbsp;·&nbsp; `CSS3` |
-| **Core Concepts** | `OOPs` &nbsp;·&nbsp; `DSA` &nbsp;·&nbsp; `Machine Learning` &nbsp;·&nbsp; `ANN` &nbsp;·&nbsp; `CNN` &nbsp;·&nbsp; `Cloud Computing` &nbsp;·&nbsp; `Microservices Architecture` &nbsp;·&nbsp; `Software Testing` |
-| **Web Development & Databases** | `Spring Boot` &nbsp;·&nbsp; `Spring Cloud (Gateway, Eureka)` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `MySQL` |
-| **ML, Vision & Tools** | `TensorFlow` &nbsp;·&nbsp; `OpenCV` &nbsp;·&nbsp; `Scikit-Learn` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `DistilRoBERTa` &nbsp;·&nbsp; `Google Gemini API` &nbsp;·&nbsp; `JMeter` &nbsp;·&nbsp; `JUnit` |
-| **Cloud & DevOps** | `AWS (Certified Cloud Practitioner)` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `GitHub Actions` &nbsp;·&nbsp; `Postman` &nbsp;·&nbsp; `Linux` |
+| **💻 Programming Languages** | `Python` &nbsp;·&nbsp; `Java` &nbsp;·&nbsp; `C++` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `HTML5` &nbsp;·&nbsp; `CSS3` |
+| **🧠 Deep Learning & Vision** | `TensorFlow` &nbsp;·&nbsp; `Keras` &nbsp;·&nbsp; `OpenCV` &nbsp;·&nbsp; `Scikit-Learn` &nbsp;·&nbsp; `DistilRoBERTa` &nbsp;·&nbsp; `Google Gemini API` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Pandas` |
+| **⚙️ Backend & Distributed Systems** | `Spring Boot` &nbsp;·&nbsp; `Spring Cloud (Gateway, Eureka)` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `REST APIs` &nbsp;·&nbsp; `Microservices Architecture` |
+| **💾 Databases & Storage** | `PostgreSQL` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `MySQL` |
+| **☁️ Cloud, Testing & DevOps** | `AWS (Certified Cloud Practitioner)` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Postman` &nbsp;·&nbsp; `Apache JMeter` &nbsp;·&nbsp; `JUnit` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `Linux` |
+| **🧩 Core Fundamentals** | `OOPs` &nbsp;·&nbsp; `Data Structures & Algorithms (DSA)` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `Requirement Analysis` &nbsp;·&nbsp; `Software QA` |
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,spring,fastapi,django,tensorflow,pytorch,opencv,postgres,mongodb,mysql,aws,docker,git,postman,linux,html,css&perline=10" alt="Tech Arsenal Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,spring,fastapi,django,tensorflow,pytorch,opencv,postgres,mongodb,mysql,aws,docker,git,postman,linux,html,css&perline=10" alt="Tech Stack Icons" />
 </p>
 
 </div>
 
 ---
 
-### 📜 Training, Certifications & Leadership
+### 📜 Training, Industry Certifications & Leadership
 
 - ☁️ **AWS Certified Cloud Practitioner** — *Amazon Web Services (June 2026)*  
-  Certified in core AWS cloud architectural principles, IAM security, VPC networks, compute (EC2/Lambda), and cloud deployment models.
+  Certified in core AWS cloud architectural principles, IAM security, VPC networking, compute (EC2/Lambda), and cloud deployment models.
 - 🏛️ **JPMorgan Chase & Co. Software Engineering Job Simulation** — *Forage (June 2026)*  
   Completed simulation on enterprise software development, financial data feed processing, interface development, and code quality.
 - 🧠 **AWS Academy – Generative AI Foundations** — *AWS Academy (March 2026)*  
@@ -269,7 +316,7 @@ AI & Product Development Engineer experienced in machine learning and full-stack
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let's Connect & Collaborate
 
 Feel free to reach out to discuss **machine learning systems**, **distributed architectures**, or **opportunities & collaborations**:
 

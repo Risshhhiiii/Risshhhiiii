@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="100%">
+  <defs>
+    <style>
+      @keyframes beamFlowRight {
+        0% { stroke-dashoffset: 600; }
+        100% { stroke-dashoffset: -600; }
+      }
+      @keyframes beamFlowLeft {
+        0% { stroke-dashoffset: -600; }
+        100% { stroke-dashoffset: 600; }
+      }
+      @keyframes centerPulseOut {
+        0% { stroke-dashoffset: 400; opacity: 0.4; }
+        50% { opacity: 1; }
+        100% { stroke-dashoffset: 0; opacity: 0.4; }
+      }
+      @keyframes softBreathe {
+        0%, 100% { opacity: 0.35; transform: scale(1); }
+        50% { opacity: 0.75; transform: scale(1.1); }
+      }
+      @keyframes beaconPing {
+        0% { r: 3.5px; opacity: 1; }
+        50% { r: 9px; opacity: 0; }
+        100% { r: 3.5px; opacity: 0; }
+      }
+      .top-runner {
+        stroke-dasharray: 140 260;
+        animation: beamFlowRight 3.5s linear infinite;
+      }
+      .bottom-runner {
+        stroke-dasharray: 140 260;
+        animation: beamFlowLeft 3.5s linear infinite;
+      }
+      .center-runner-left {
+        stroke-dasharray: 80 160;
+        animation: beamFlowLeft 2.8s linear infinite;
+      }
+      .center-runner-right {
+        stroke-dasharray: 80 160;
+        animation: beamFlowRight 2.8s linear infinite;
+      }
+      .ambient-glow {
+        animation: softBreathe 5s ease-in-out infinite;
+        transform-origin: 600px 140px;
+      }
+      .beacon {
+        animation: beaconPing 2s cubic-bezier(0, 0, 0.2, 1) infinite;
+      }
+    </style>
+
+    <!-- Deep Minimalist Slate Gradients -->
+    <linearGradient id="bgSlate" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060911" />
+      <stop offset="50%" stop-color="#090f1d" />
+      <stop offset="100%" stop-color="#0d1424" />
+    </linearGradient>
+
+    <!-- High-Luminance Electric Blue Beam Gradient -->
+    <linearGradient id="blueLaserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+
+    <linearGradient id="centerLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00f2fe" stop-opacity="1" />
+      <stop offset="75%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Ambient Center Blue Glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#0369a1" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Blue Glow Filter -->
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Minimal Dot Grid -->
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.85" fill="#38bdf8" opacity="0.14" />
+    </pattern>
+  </defs>
+
+  <!-- Base Slate Card -->
+  <rect width="1200" height="280" rx="16" fill="url(#bgSlate)" />
+
+  <!-- Dot Grid Overlay -->
+  <rect width="1200" height="280" rx="16" fill="url(#dotGrid)" />
+
+  <!-- Ambient Breathing Center Bloom -->
+  <circle cx="600" cy="140" r="280" fill="url(#centerGlow)" class="ambient-glow" />
+
+  <!-- Static Base Border -->
+  <rect width="1196" height="276" x="2" y="2" rx="15" fill="none" stroke="#1e293b" stroke-width="1.2" />
+
+  <!-- ================= ANIMATED BLUE RUNNERS (TOP & BOTTOM) ================= -->
+
+  <!-- Top Blue Running Beam (Base Glow + Bright Core) -->
+  <path d="M 20 2 L 1180 2" fill="none" stroke="#0284c7" stroke-width="3.5" opacity="0.4" class="top-runner" filter="url(#neonGlow)" />
+  <path d="M 20 2 L 1180 2" fill="none" stroke="url(#blueLaserGrad)" stroke-width="2" class="top-runner" />
+
+  <!-- Bottom Blue Running Beam (Base Glow + Bright Core) -->
+  <path d="M 1180 278 L 20 278" fill="none" stroke="#0284c7" stroke-width="3.5" opacity="0.4" class="bottom-runner" filter="url(#neonGlow)" />
+  <path d="M 1180 278 L 20 278" fill="none" stroke="url(#blueLaserGrad)" stroke-width="2" class="bottom-runner" />
+
+  <!-- ================= CENTER RUNNERS (FLOWING OUT TO SIDEWAYS) ================= -->
+
+  <!-- Static Center Track Line -->
+  <line x1="200" y1="190" x2="1000" y2="190" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Animated Blue Beams Running Outward from Center to Left & Right -->
+  <path d="M 600 190 L 180 190" fill="none" stroke="url(#blueLaserGrad)" stroke-width="2.5" class="center-runner-left" filter="url(#neonGlow)" />
+  <path d="M 600 190 L 1020 190" fill="none" stroke="url(#blueLaserGrad)" stroke-width="2.5" class="center-runner-right" filter="url(#neonGlow)" />
+
+  <!-- Center Origin Core Dot -->
+  <circle cx="600" cy="190" r="3" fill="#00f2fe" filter="url(#neonGlow)" />
+
+  <!-- ================= CENTERED CONTENT DECK ================= -->
+  <g text-anchor="middle" transform="translate(600, 0)">
+
+    <!-- Top Status Badge -->
+    <g transform="translate(0, 42)">
+      <rect x="-145" y="0" width="290" height="28" rx="14" fill="#091428" stroke="#388bfd" stroke-width="1.2" stroke-opacity="0.8" />
+      <!-- Animated Beacon -->
+      <circle cx="-120" cy="14" r="3.5" fill="none" stroke="#38bdf8" stroke-width="1.5" class="beacon" />
+      <circle cx="-120" cy="14" r="3.5" fill="#38bdf8" />
+      <text x="12" y="18.5" fill="#e0f2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6">AI &amp; PRODUCT DEVELOPMENT</text>
+    </g>
+
+    <!-- Main Candidate Name -->
+    <text y="122" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5">Rishi Raj Sharma</text>
+
+    <!-- Subtitle with Soft Blue Highlight -->
+    <text y="160" fill="#7dd3fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15.5" font-weight="600" letter-spacing="0.2">
+      Deep Learning Pipelines &#183; Distributed Microservices &#183; Real-Time Vision Systems
+    </text>
+
+    <!-- Badges Row -->
+    <g transform="translate(0, 216)">
+      <!-- Badge 1: AWS -->
+      <g transform="translate(-300, 0)">
+        <rect x="0" y="0" width="180" height="30" rx="6" fill="#0b172d" stroke="#388bfd" stroke-width="1.2" stroke-opacity="0.7" />
+        <text x="90" y="19.5" fill="#e0f2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">&#9729; AWS Certified CP</text>
+      </g>
+
+      <!-- Badge 2: JPMC -->
+      <g transform="translate(-105, 0)">
+        <rect x="0" y="0" width="195" height="30" rx="6" fill="#0b172d" stroke="#388bfd" stroke-width="1.2" stroke-opacity="0.8" />
+        <text x="97.5" y="19.5" fill="#bae6fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">&#127963; JPMC Software Eng</text>
+      </g>
+
+      <!-- Badge 3: BITM -->
+      <g transform="translate(105, 0)">
+        <rect x="0" y="0" width="195" height="30" rx="6" fill="#0b172d" stroke="#388bfd" stroke-width="1.2" stroke-opacity="0.7" />
+        <text x="97.5" y="19.5" fill="#e0f2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">&#127891; BITM CSE (AI) '27</text>
+      </g>
+    </g>
+
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://my-portfolio-tau-navy-48.vercel.app/" target="_blank">
-    <img src="assets/hero_banner.svg" alt="Rishi Raj Sharma — AI & Product Development Engineer" width="100%" />
+    <img src="assets/executive_banner.svg" alt="Rishi Raj Sharma — AI & Product Development Engineer" width="100%" />
   </a>
 </p>
 

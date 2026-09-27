@@ -2,7 +2,7 @@
 
 <!-- Animated Header Banner -->
 <a href="https://my-portfolio-tau-navy-48.vercel.app/" target="_blank">
-  <img src="assets/banner.svg" alt="Rishi Raj Sharma — AI & Product Development Engineer" width="100%" />
+  <img src="assets/animated_banner.svg" alt="Rishi Raj Sharma — AI & Product Development Engineer" width="100%" />
 </a>
 
 <br/><br/>
@@ -17,19 +17,19 @@
 <!-- Interactive Quick-Launch Badges -->
 <p align="center">
   <a href="https://my-portfolio-tau-navy-48.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_ENTER_DIGITAL_SANCTUARY-Live_Portfolio_↗-00E5FF?style=for-the-badge&logoColor=white&labelColor=0a0e17" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio_↗-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Live Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rishi-raj-sharma-9b5168344" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishi_Raj_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:rishisharma21950@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   &nbsp;
   <a href="https://kaggle.com/risshhhiiii" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-risshhhiiii-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a0e17" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117" alt="Kaggle" />
   </a>
 </p>
 
@@ -173,7 +173,7 @@ DistilRoBERTa          Google Gemini           MongoDB
       <p>Real-time touchless Human-Computer Interface (HCI) translating dynamic hand postures into media playback commands with zero physical contact.</p>
       <ul>
         <li><b>Computer Vision:</b> Real-time 30 FPS video streaming, hand contour detection, and dynamic skin-mask segmentation via OpenCV.</li>
-        <li><b>Gesture Classification:</b> Trained 2D CNN model to detect hand postures with high reliability for play, pause, volume, and seek controls.</li>
+        <li><b>Gesture Classification:</b> Trained 2D CNN model to detect hand gestures with high reliability for play, pause, volume, and seek controls.</li>
         <li><b>Integration:</b> Combined ML inference pipeline with media player state logic in an interactive Streamlit application.</li>
       </ul>
       <p>
@@ -322,19 +322,19 @@ Feel free to reach out to discuss **machine learning systems**, **distributed ar
 
 <p align="center">
   <a href="https://my-portfolio-tau-navy-48.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-00E5FF?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_Portfolio_↗-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rishi-raj-sharma-9b5168344" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rishisharma21950@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://kaggle.com/risshhhiiii" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117" alt="Kaggle" />
   </a>
 </p>
 
